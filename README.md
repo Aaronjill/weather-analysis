@@ -33,6 +33,6 @@ How to Run the Project
    ```bash
    git clone https://github.com/your-username/weather-analysis.git
 
--MESSAGE-
-
-- This is the initial stage of learning, I'll start combining data in this same project only and make it more comprehensive and do complex analysis.
+Next Steps:
+I’m planning to: 🔗 Combine this dataset with other data (e.g., automobile sales or pollution) to uncover deeper insights.
+📈 Build an interactive dashboard for real-time weather analysis.
