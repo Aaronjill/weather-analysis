@@ -2,6 +2,8 @@ Weather Data Analysis
 
 This project analyzes weather data to uncover trends and patterns in temperature, humidity, and weather events. The focus is on data cleaning, exploration, and visualization.
 
+- This is the initial stage of learning, I'll start combining data in this same project only and make it more comprehensive and do complex analysis.
+
 Objective
 The objective of this project is to analyze weather data to:
 - Clean and preprocess raw weather data for accurate insights.
