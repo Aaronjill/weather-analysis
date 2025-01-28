@@ -32,7 +32,11 @@ How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/weather-analysis.git
+   
 
 Next Steps:
-I’m planning to: 🔗 Combine this dataset with other data (e.g., automobile sales or pollution) to uncover deeper insights.
+
+I’m planning to:
+🔗 Combine this dataset with other data (e.g., automobile sales or pollution) to uncover deeper insights.
+
 📈 Build an interactive dashboard for real-time weather analysis.
