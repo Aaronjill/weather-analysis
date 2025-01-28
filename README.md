@@ -2,7 +2,6 @@ Weather Data Analysis
 
 This project analyzes weather data to uncover trends and patterns in temperature, humidity, and weather events. The focus is on data cleaning, exploration, and visualization.
 
-- This is the initial stage of learning, I'll start combining data in this same project only and make it more comprehensive and do complex analysis.
 
 Objective
 The objective of this project is to analyze weather data to:
@@ -33,3 +32,7 @@ How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/weather-analysis.git
+
+-MESSAGE-
+
+- This is the initial stage of learning, I'll start combining data in this same project only and make it more comprehensive and do complex analysis.
